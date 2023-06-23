@@ -20,3 +20,4 @@ function withdrawEther(uint amount) external{
         balance -= amount;
         payable(owner).transfer(amount);
     }
+}
