@@ -1,6 +1,10 @@
 // Deployed by Youkie
 // https://twitter.com/YoukieOfficial
 
+
+
+
+// SPDX-License-Identifier: MIT
 pragma solidity 0.8.12;
 
 contract YoukieWallet {
